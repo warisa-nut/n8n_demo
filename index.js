@@ -3,5 +3,5 @@ console.log("Hello World")
 const a = 1
 const b = 0
 console.log(a+b)
-
+console.log(6+9);
 console.log(1+2)
